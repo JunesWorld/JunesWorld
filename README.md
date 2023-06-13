@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunesWorld&show_icons=true&theme=great-gatsby )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunesWorld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/JunesWorld/JunesWorld/blob/output/github-contribution-grid-snake.svg)
